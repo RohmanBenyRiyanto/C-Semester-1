@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576051697 source:d:\telkom teranu\praktikum rpl\file codeblock\tubes alpro\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
