@@ -14,10 +14,10 @@
   <p align="center">
     RohmanBenyRiyanto | 19104060 | S1SE03-B
     <br />
-    <a href="https://github.com/RohmanBenyRiyanto/UTS-Pemrograman-GUI"><strong>Lihat»</strong></a>
+    <a href="https://github.com/RohmanBenyRiyanto/C-Semester-1"><strong>Lihat»</strong></a>
     <br />
     <br />
-    <a href="https://github.com/RohmanBenyRiyanto/UTS-Pemrograman-GUI#readme">Readme </a>
+    <a href="https://github.com/RohmanBenyRiyanto/C-Semester-1/edit/main/README">Readme </a>
     ·
     <a href="https://github.com/RohmanBenyRiyanto/UTS-Pemrograman-GUI/issues">Report Jawaban</a>
     ·
